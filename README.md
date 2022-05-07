@@ -11,5 +11,5 @@ Skills: Full cycle Recruiting, Organizational, Communication , Data-Driven, and 
 - 😄 Pronouns: **She/Her** 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=temiakomolafe)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=temiakomolafe&show_icons=true&theme=radical)
 
